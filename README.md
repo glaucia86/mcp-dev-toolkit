@@ -1,2 +1,2 @@
-# mcp-devtool-kit
+# mcp-dev-toolkit
 A MCP DevTool Kit
