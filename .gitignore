@@ -35,3 +35,6 @@ yarn-error.log*
 # Testing
 coverage/
 .nyc_output/
+
+# Other files
+PRD.md
