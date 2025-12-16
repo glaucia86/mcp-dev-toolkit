@@ -17,6 +17,7 @@
     "prompts": "^2.4.2"
   },
   "devDependencies": {
+    "@types/prompts": "^2.4.9",
     "tsx": "^4.0.0",
     "typescript": "^5.0.0",
     "vitest": "^2.0.0"

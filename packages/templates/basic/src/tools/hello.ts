@@ -4,9 +4,9 @@ export const helloTool = {
   name: 'hello',
   title: 'Hello Tool',
   description: 'Returns a greeting message',
-  inputSchema: {
+  inputSchema: z.object({
     name: z.string().optional().describe('The name to greet'),
-  },
+  }),
   outputSchema: {
     message: z.string().describe('The greeting message'),
   },
